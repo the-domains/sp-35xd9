@@ -1,0 +1,14 @@
+layout_spectrum: 0.3945983259472996
+typography_spectrum: 0.6630957773886621
+color:
+  brandStrength: 0.5480088705662638
+  lightness: 0.6972565783653408
+  saturation: 0.5748746425379068
+  rhythmicContrast: 0.9107654166873544
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: SP
